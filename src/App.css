@@ -36,3 +36,4 @@
     transform: rotate(360deg);
   }
 }
+.button{background: red; padding: 10px; border-radius: 10px;} 
