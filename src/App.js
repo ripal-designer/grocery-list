@@ -1,8 +1,5 @@
 import './App.css';
-import ArrayRemoveItem from './components/ArrayRemoveItem';
-import Test from './components/Test';
-import AddItemArray from './components/AddItemArray';
-import StringReverse from './components/StringReverse';
+
 import Glist from './components/Glist';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
